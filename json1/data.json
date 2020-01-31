@@ -1,0 +1,18 @@
+{
+    "events": [{
+            "Location": "Thrissur",
+            "date": "February 1",
+            "map": "tsr.jpg"
+        },
+        {
+            "Location": "Kottayam",
+            "date": "February 1",
+            "map": "ktym.jpg"
+        },
+        {
+            "Location": "Kollam",
+            "date": "February 1",
+            "map": "kollam.jpg"
+        }
+    ]
+}
